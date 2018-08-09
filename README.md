@@ -99,6 +99,7 @@ Your final product will be assessed on the following metrics:
 
 * Good luck!
 
-## Copyright
+### Helpful Links
 
-Data Boot Camp (C) 2018. All Rights Reserved.
+* [Tableau Public Download](https://public.tableau.com/en-us/)
+* [Tableau Gallery](https://public.tableau.com/en-us/s/gallery)
